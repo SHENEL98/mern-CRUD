@@ -1,0 +1,1 @@
+MONGODB_URL = mongodb+srv://dbStudent:dbStudent@cluster0.4nfb1ss.mongodb.net/?retryWrites=true&w=majority
